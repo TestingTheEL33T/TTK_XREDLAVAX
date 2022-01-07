@@ -438,12 +438,6 @@
     "version": null
   },
   {
-    "author": "TrahsPanda",
-    "name": "[TP]Fursuits",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Hexicube",
     "name": "Show All Modifiable Body Parts",
     "steamId": null,
@@ -502,5 +496,17 @@
     "name": "Tradable Stone Blocks",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "TechnoFox",
+    "name": "Colonist Mentality 1.3",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Niels Meijer",
+    "name": "Configurable Mental Breaks",
+    "steamId": "2111931765",
+    "version": "1.0.0.0"
   }
 ]

@@ -6132,6 +6132,18 @@
 		"category": "Animal",
 		"defname": "Alien_Penguin"
 	},
+	{
+		"abr": "40mmlauncher",
+		"price": 692,
+		"category": "Ranged weapons",
+		"defname": "Gun_40mmLauncher"
+	},
+	{
+		"abr": "advancedassaultrifle",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "Gun_AdvancedAssaultRifle"
+	}
 	],
-	"total": 1315
+	"total": 1173
 }
