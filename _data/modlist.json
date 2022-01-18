@@ -12,6 +12,18 @@
     "version": "9.0.1"
   },
   {
+    "author": "jecrell and contributors",
+    "name": "JecsTools (Unofficial)",
+    "steamId": "2195729899",
+    "version": "1.3.0.3"
+  },
+  {
+    "author": "Kentington and Thain",
+    "name": "Save Our Ship 2",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -54,6 +66,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki,  Sarg Bjornson,  erdelf,  Roolo,  Smash Phil,  Taranchuk,  xrushha,  Kikohi and  legodude17",
+    "name": "Vanilla Factions Expanded - Pirates",
+    "steamId": "2723801948",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Indeed",
     "name": "Stack XXL",
     "steamId": null,
@@ -76,12 +94,6 @@
     "name": "Snakes With Tophats",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "jecrell and contributors",
-    "name": "JecsTools (Unofficial)",
-    "steamId": "2195729899",
-    "version": "1.3.0.3"
   },
   {
     "author": "EdB",
@@ -183,7 +195,7 @@
     "author": "Hob Took",
     "name": "Mortar Accuracy",
     "steamId": "1729446857",
-    "version": "1.3.2"
+    "version": "1.3.8"
   },
   {
     "author": "erdelf",
@@ -294,12 +306,6 @@
     "version": "1.1.0"
   },
   {
-    "author": "Andrew Raphael Lukasik",
-    "name": "Allow Anything",
-    "steamId": "2592726874",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Roolo",
     "name": "Search and Destroy",
     "steamId": null,
@@ -378,32 +384,8 @@
     "version": null
   },
   {
-    "author": "Chairheir",
-    "name": "Oddities: Weapons Module",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Duke Silver",
-    "name": "Loge",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "ILuvSilicon",
     "name": "Caerulean Race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neceros",
-    "name": "SRTS Expanded",
-    "steamId": "1845423808",
-    "version": "1.4.6"
-  },
-  {
-    "author": "Guyver",
-    "name": "Smear Your S**t ",
     "steamId": null,
     "version": null
   },
@@ -432,20 +414,8 @@
     "version": null
   },
   {
-    "author": "Holgast",
-    "name": "Brrrt",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Hexicube",
     "name": "Show All Modifiable Body Parts",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Yeff Scry",
-    "name": "The Elder Scrolls V Skyrim Soundtrack",
     "steamId": null,
     "version": null
   },
@@ -456,12 +426,6 @@
     "version": null
   },
   {
-    "author": "Torann",
-    "name": "Rim War",
-    "steamId": "2222935097",
-    "version": "0.9.8.9"
-  },
-  {
     "author": "Kikohi",
     "name": "Jewelry",
     "steamId": "2020964421",
@@ -470,12 +434,6 @@
   {
     "author": "zyxabacab",
     "name": "No Sympathy for Prisoners",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "AobaKuma",
-    "name": "Fortifications - Industrial",
     "steamId": null,
     "version": null
   },
@@ -507,6 +465,12 @@
     "author": "Niels Meijer",
     "name": "Configurable Mental Breaks",
     "steamId": "2111931765",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Andrew Raphael Lukasik",
+    "name": "Allow Everything",
+    "steamId": "2592726874",
     "version": "1.0.0.0"
   }
 ]

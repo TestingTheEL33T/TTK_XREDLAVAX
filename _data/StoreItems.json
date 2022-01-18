@@ -6043,12 +6043,6 @@
 		"defname": "Meat_CaeruleanRace"
 	},
 	{
-		"abr": "cantabile",
-		"price": 4667,
-		"category": "Melee weapons",
-		"defname": "OW_MeleeWeapon_Cantabile"
-	},
-	{
 		"abr": "cassowaryman",
 		"price": -10,
 		"category": "Animal",
@@ -6061,58 +6055,10 @@
 		"defname": "Alien_Chicken"
 	},
 	{
-		"abr": "devil'sbargain",
-		"price": 4667,
-		"category": "Melee weapons",
-		"defname": "OW_MeleeWeapon_DevilsBargain"
-	},
-	{
 		"abr": "dodoman",
 		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_Dodo"
-	},
-	{
-		"abr": "epiphany",
-		"price": 1108,
-		"category": "Melee weapons",
-		"defname": "OW_MeleeWeapon_Epiphany"
-	},
-	{
-		"abr": "kronos",
-		"price": 4667,
-		"category": "Melee weapons",
-		"defname": "OW_MeleeWeapon_Kronos"
-	},
-	{
-		"abr": "loge",
-		"price": 17,
-		"category": "Animals",
-		"defname": "Loge"
-	},
-	{
-		"abr": "logemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Loge"
-	},
-	{
-		"abr": "momentum",
-		"price": 4667,
-		"category": "Ranged weapons",
-		"defname": "OW_Gun_Momentum"
-	},
-	{
-		"abr": "oddityfragment",
-		"price": 833,
-		"category": "Items",
-		"defname": "OC_OddityFragment"
-	},
-	{
-		"abr": "odditystrongbox",
-		"price": 4167,
-		"category": "Artifacts",
-		"defname": "OC_OddityStrongbox_Weapons"
 	},
 	{
 		"abr": "owlman",
@@ -6143,7 +6089,463 @@
 		"price": 1667,
 		"category": "Ranged weapons",
 		"defname": "Gun_AdvancedAssaultRifle"
+	},
+	{
+		"abr": "advancedholodeck",
+		"price": 3275,
+		"category": "Recreation",
+		"defname": "Holodeck_Standard"
+	},
+	{
+		"abr": "afterlifecasket",
+		"price": 3575,
+		"category": "Buildings",
+		"defname": "Ship_AvatarCasket"
+	},
+	{
+		"abr": "agencyrifle",
+		"price": 667,
+		"category": "Ranged weapons",
+		"defname": "Gun_AgencyRifle"
+	},
+	{
+		"abr": "ak-12",
+		"price": 625,
+		"category": "Ranged weapons",
+		"defname": "Gun_AK-12_SA"
+	},
+	{
+		"abr": "ak-74",
+		"price": 425,
+		"category": "Ranged weapons",
+		"defname": "Gun_AK-74_SA"
+	},
+	{
+		"abr": "akm",
+		"price": 375,
+		"category": "Ranged weapons",
+		"defname": "Gun_AKM_SA"
+	},
+	{
+		"abr": "aks-74u",
+		"price": 458,
+		"category": "Ranged weapons",
+		"defname": "Gun_AKS-74U_SA"
+	},
+	{
+		"abr": "antimaterialrifle",
+		"price": 2000,
+		"category": "Ranged weapons",
+		"defname": "Gun_AMRRifle"
+	},
+	{
+		"abr": "anti-armorrocketlauncher",
+		"price": 667,
+		"category": "Ranged weapons",
+		"defname": "Gun_AntiArmor_Rocket"
+	},
+	{
+		"abr": "antigraintorpedo",
+		"price": 2500,
+		"category": "Torpedoes",
+		"defname": "ShipTorpedo_Antimatter"
+	},
+	{
+		"abr": "arc-920railgun",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "Asymmetric_Recoilless_Carbine"
+	},
+	{
+		"abr": "archocat",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archocat"
+	},
+	{
+		"abr": "archoffalo",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archoffalo"
+	},
+	{
+		"abr": "archojerboa",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archojerboa"
+	},
+	{
+		"abr": "archolifepod",
+		"price": 1667,
+		"category": "Items",
+		"defname": "ArcholifePod"
+	},
+	{
+		"abr": "archolope",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archolope"
+	},
+	{
+		"abr": "archomutt",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archomutt"
+	},
+	{
+		"abr": "archopanda",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archopanda"
+	},
+	{
+		"abr": "archospider",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archospider"
+	},
+	{
+		"abr": "archostrich",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archostrich"
+	},
+	{
+		"abr": "archostrichegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "EggArchostrichFertilized"
+	},
+	{
+		"abr": "archostrichegg(unfert.)",
+		"price": 38,
+		"category": "Eggs (unfert.)",
+		"defname": "EggArchostrichUnfertilized"
+	},
+	{
+		"abr": "archotechear",
+		"price": 2000,
+		"category": "Archotech",
+		"defname": "SoSArchotechEar"
+	},
+	{
+		"abr": "archotechheart",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechHeart"
+	},
+	{
+		"abr": "archotechjaw",
+		"price": 3667,
+		"category": "Archotech",
+		"defname": "SoSArchotechJaw"
+	},
+	{
+		"abr": "archotechkidney",
+		"price": 3667,
+		"category": "Archotech",
+		"defname": "SoSArchotechKidney"
+	},
+	{
+		"abr": "archotechliver",
+		"price": 3667,
+		"category": "Archotech",
+		"defname": "SoSArchotechLiver"
+	},
+	{
+		"abr": "archotechlung",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechLung"
+	},
+	{
+		"abr": "archotechnose",
+		"price": 3667,
+		"category": "Archotech",
+		"defname": "SoSArchotechNose"
+	},
+	{
+		"abr": "archotechpillaralpha",
+		"price": 16783,
+		"category": "Misc",
+		"defname": "ShipArchotechPillarA"
+	},
+	{
+		"abr": "archotechpillarbeta",
+		"price": 16783,
+		"category": "Misc",
+		"defname": "ShipArchotechPillarB"
+	},
+	{
+		"abr": "archotechpillardelta",
+		"price": 16783,
+		"category": "Misc",
+		"defname": "ShipArchotechPillarD"
+	},
+	{
+		"abr": "archotechpillargamma",
+		"price": 16783,
+		"category": "Misc",
+		"defname": "ShipArchotechPillarC"
+	},
+	{
+		"abr": "archotechskin",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechSkin"
+	},
+	{
+		"abr": "archotechspine",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechSpine"
+	},
+	{
+		"abr": "archotechstomach",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechStomach"
+	},
+	{
+		"abr": "archotechuplink",
+		"price": 8542,
+		"category": "Misc",
+		"defname": "ArchotechUplink"
+	},
+	{
+		"abr": "archothrumbo",
+		"price": 16667,
+		"category": "Animals",
+		"defname": "Archothrumbo"
+	},
+	{
+		"abr": "archotortoise",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "Archotortoise"
+	},
+	{
+		"abr": "archotortoiseegg(fert.)",
+		"price": 38,
+		"category": "Eggs (fert.)",
+		"defname": "EggArchotortoiseFertilized"
+	},
+	{
+		"abr": "astromite",
+		"price": 167,
+		"category": "Animals",
+		"defname": "Astromite"
+	},
+	{
+		"abr": "automaticrifle",
+		"price": 667,
+		"category": "Ranged weapons",
+		"defname": "Gun_AutomaticRifle"
+	},
+	{
+		"abr": "basicholodeck",
+		"price": 1792,
+		"category": "Recreation",
+		"defname": "Holodeck_Basic"
+	},
+	{
+		"abr": "battlerifle",
+		"price": 875,
+		"category": "Ranged weapons",
+		"defname": "Gun_BattleRifle"
+	},
+	{
+		"abr": "bigiron",
+		"price": 167,
+		"category": "Ranged weapons",
+		"defname": "Gun_Dragoon"
+	},
+	{
+		"abr": "bladerunnerblaster",
+		"price": 1000,
+		"category": "Ranged weapons",
+		"defname": "Gun_BladeRunner"
+	},
+	{
+		"abr": "br85",
+		"price": 1333,
+		"category": "Ranged weapons",
+		"defname": "BR85_Service_Rifle"
+	},
+	{
+		"abr": "breech-loadingrifle",
+		"price": 250,
+		"category": "Ranged weapons",
+		"defname": "Gun_ZuluRifle"
+	},
+	{
+		"abr": "bullpupassaultrifle",
+		"price": 908,
+		"category": "Ranged weapons",
+		"defname": "Gun_BullpupAssaultRifle"
+	},
+	{
+		"abr": "bullpupcommandocarbine",
+		"price": 908,
+		"category": "Ranged weapons",
+		"defname": "Gun_BullpupCommandoCarbine"
+	},
+	{
+		"abr": "bushrifle",
+		"price": 358,
+		"category": "Ranged weapons",
+		"defname": "Gun_BushRifle"
+	},
+	{
+		"abr": "cannon",
+		"price": 262,
+		"category": "Security",
+		"defname": "VFEP_Turret_Cannon"
+	},
+	{
+		"abr": "carbine",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "Gun_Carbine"
+	},
+	{
+		"abr": "cargoshuttle",
+		"price": 3925,
+		"category": "Furniture",
+		"defname": "CargoShuttle"
+	},
+	{
+		"abr": "cargoshuttle(hovermode)",
+		"price": 7500,
+		"category": "Animal",
+		"defname": "ShuttleCargoRace"
+	},
+	{
+		"abr": "caselessassaultrifle",
+		"price": 1442,
+		"category": "Ranged weapons",
+		"defname": "Gun_CaselessAssaultRifle"
+	},
+	{
+		"abr": "caselessbattlerifle",
+		"price": 1442,
+		"category": "Ranged weapons",
+		"defname": "Gun_CaselessBattleRifle"
+	},
+	{
+		"abr": "chargecarbine",
+		"price": 1308,
+		"category": "Ranged weapons",
+		"defname": "Gun_ChargeCarbine"
+	},
+	{
+		"abr": "chemfuelslime",
+		"price": 417,
+		"category": "Animals",
+		"defname": "ZSL_ChemfuelSlime"
+	},
+	{
+		"abr": "chemfuelslimeegg(fert.)",
+		"price": 38,
+		"category": "Eggs (fert.)",
+		"defname": "ZSL_EggChemfuelSlimeFertilized"
+	},
+	{
+		"abr": "combatpistol",
+		"price": 333,
+		"category": "Ranged weapons",
+		"defname": "Gun_CombatPistol"
+	},
+	{
+		"abr": "combatrifle",
+		"price": 525,
+		"category": "Ranged weapons",
+		"defname": "Gun_CombatRifle"
+	},
+	{
+		"abr": "combatshotgun",
+		"price": 625,
+		"category": "Ranged weapons",
+		"defname": "Gun_CombatShotgun"
+	},
+	{
+		"abr": "convertedmusket",
+		"price": 192,
+		"category": "Ranged weapons",
+		"defname": "Gun_TrapDoorRifle"
+	},
+	{
+		"abr": "cosmopillar",
+		"price": 833,
+		"category": "Animals",
+		"defname": "Cosmopillar"
+	},
+	{
+		"abr": "deltacarbine",
+		"price": 942,
+		"category": "Ranged weapons",
+		"defname": "Gun_DeltaCarbine"
+	},
+	{
+		"abr": "deltarifle",
+		"price": 358,
+		"category": "Ranged weapons",
+		"defname": "Gun_DeltaRifle"
+	},
+	{
+		"abr": "diamond",
+		"price": 12,
+		"category": "Raw resources",
+		"defname": "Diamond"
+	},
+	{
+		"abr": "earlyautoloadingrifle",
+		"price": 500,
+		"category": "Ranged weapons",
+		"defname": "Gun_EarlyAutoRifle"
+	},
+	{
+		"abr": "emptorpedo",
+		"price": 433,
+		"category": "Torpedoes",
+		"defname": "ShipTorpedo_EMP"
+	},
+	{
+		"abr": "entanglementmanifold",
+		"price": 6667,
+		"category": "Items",
+		"defname": "SoSEntanglementManifold"
+	},
+	{
+		"abr": "evahelmet",
+		"price": 675,
+		"category": "Headgear",
+		"defname": "Apparel_SpaceSuitHelmet"
+	},
+	{
+		"abr": "evasuit",
+		"price": 1150,
+		"category": "Armor",
+		"defname": "Apparel_SpaceSuitBody"
+	},
+	{
+		"abr": "exoticparticles",
+		"price": 167,
+		"category": "Items",
+		"defname": "ArchotechExoticParticles"
+	},
+	{
+		"abr": "fieldgun",
+		"price": 1058,
+		"category": "Security",
+		"defname": "VFEP_Turret_FieldGun"
+	},
+	{
+		"abr": "fireslime",
+		"price": 367,
+		"category": "Animals",
+		"defname": "ZSL_FireSlime"
 	}
 	],
-	"total": 1173
+	"total": 1238
 }
